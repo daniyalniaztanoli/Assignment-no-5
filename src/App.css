@@ -1,0 +1,19 @@
+.bg_img{
+    background-image: url(../public/images/hm1-bg-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.banner{
+    background-image: url(../public/images/banner-bg-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    margin: auto;
+    width: 70%;
+}
+*{
+    scroll-behavior: smooth;
+    transition-delay: 3s initial ease;
+}
